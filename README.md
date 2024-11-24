@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="Designer (1).jpeg"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -45,7 +41,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/patric_augustoo/profilecard/?igsh=MXdtYnA5eW16a2wzZw==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -62,12 +58,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PatricAugusto/PatricAugusto/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">Hello World!!</p>
 
 ###
@@ -79,12 +69,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PatricAugusto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatricAugusto&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
