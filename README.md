@@ -10,10 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://seuportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&style=flat&color=378ADD&label=visitors" />
+  <a href="https://www.linkedin.com/in/patric-augusto-bab47b240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="desenvolvedorpatric@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-v3-0-0.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
