@@ -54,25 +54,6 @@ Sempre explorando novas tecnologias no ecossistema JavaScript.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=seu-usuario&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
-<!-- Snake de contribuições — habilite via GitHub Actions (ver instruções abaixo) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PatricAugusto/PatricAugusto/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-
 <p align="center">
   <sub>✦ Atualizado em 2026 &nbsp;·&nbsp; </sub>
 </p>
