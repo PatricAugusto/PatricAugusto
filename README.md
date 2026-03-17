@@ -67,20 +67,11 @@ Sempre explorando novas tecnologias no ecossistema JavaScript.
 
 <!-- Snake de contribuições — habilite via GitHub Actions (ver instruções abaixo) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PatricAugusto/PatricAugusto/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**nome-do-projeto**](https://github.com/seu-usuario/projeto) | Breve descrição do que resolve | TS · Next.js · PostgreSQL |
-| [**outro-projeto**](https://github.com/seu-usuario/projeto2) | Breve descrição do que resolve | Node.js · React · Redis |
-| [**mais-um**](https://github.com/seu-usuario/projeto3) | Breve descrição do que resolve | TypeScript · Fastify |
-
----
 
 <p align="center">
   <sub>✦ Atualizado em 2026 &nbsp;·&nbsp; </sub>
