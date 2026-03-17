@@ -1,76 +1,87 @@
-<h2 align="center">Hi 👋! My name is Patric and I'm a Developer, from Brazil!</h2>
+<!-- Cabeçalho -->
+<h1 align="center">Olá, eu sou o Patric 👋</h1>
 
-###
+<p align="center">
+  <em>Full Stack Developer &nbsp;·&nbsp; JS/TS Enthusiast &nbsp;·&nbsp; </em>
+</p>
 
-<div align="center">
-  <a href="void_dream420" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="druidacanabico@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/patric-augusto-bab47b240" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=378ADD&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;TypeScript+%7C+Node.js+%7C+React;Building+products+that+matter" alt="Typing SVG" />
+</p>
 
-###
+<p align="center">
+  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://seuportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=seu-usuario&style=flat&color=378ADD&label=visitors" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
+---
 
-###
+### About me
 
-<p align="center">Hello World!!</p>
+Desenvolvedor Full Stack apaixonado por criar produtos que entregam valor real.  
+Foco em código limpo, performance e experiências de usuário fluidas.  
+Sempre explorando novas tecnologias no ecossistema JavaScript.
 
-###
+- 🔭 Trabalhando em projetos com **Next.js + TypeScript, Node.js + APIs REST/GraphQL**
+- 🌱 Estudando atualmente **arquitetura de microsserviços e IA**
+- 📍 Brasil 🇧🇷
 
-<p align="left"></p>
+---
 
-###
+### Tech Stack
 
-<br clear="both">
+**Frontend**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PatricAugusto&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="500" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PatricAugusto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-###
+**Backend**
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatricAugusto&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 
-###
+**Banco de dados & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=seu-usuario&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<!-- Snake de contribuições — habilite via GitHub Actions (ver instruções abaixo) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**nome-do-projeto**](https://github.com/seu-usuario/projeto) | Breve descrição do que resolve | TS · Next.js · PostgreSQL |
+| [**outro-projeto**](https://github.com/seu-usuario/projeto2) | Breve descrição do que resolve | Node.js · React · Redis |
+| [**mais-um**](https://github.com/seu-usuario/projeto3) | Breve descrição do que resolve | TypeScript · Fastify |
+
+---
+
+<p align="center">
+  <sub>✦ Atualizado em 2026 &nbsp;·&nbsp; </sub>
+</p>
