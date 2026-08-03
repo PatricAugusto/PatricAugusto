@@ -66,11 +66,6 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="./assets/solarpunk-divider.svg" alt="sol nascendo sobre as colinas" width="100%"/>
-</p>
 
 <br/>
 
