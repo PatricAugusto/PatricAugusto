@@ -1,0 +1,59 @@
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F2C14E" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#F2C14E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hillBack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9CBBA1"/>
+      <stop offset="100%" stop-color="#84A98C"/>
+    </linearGradient>
+    <linearGradient id="hillFront" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5C9271"/>
+      <stop offset="100%" stop-color="#2C6E49"/>
+    </linearGradient>
+  </defs>
+
+  <!-- brilho do sol (respiração lenta) -->
+  <circle cx="450" cy="95" r="90" fill="url(#sunGlow)">
+    <animate attributeName="opacity" values="0.4;0.75;0.4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- sol -->
+  <circle cx="450" cy="95" r="38" fill="#F2C14E">
+    <animate attributeName="r" values="36;40;36" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- folhas flutuando -->
+  <path d="M0,0 C6,-8 18,-8 24,0 C18,8 6,8 0,0 Z" fill="#D68C45" opacity="0">
+    <animateMotion path="M50,60 C250,20 650,140 850,50" dur="14s" repeatCount="indefinite" rotate="auto"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.1;0.85;1" dur="14s" repeatCount="indefinite"/>
+  </path>
+
+  <path d="M0,0 C6,-8 18,-8 24,0 C18,8 6,8 0,0 Z" fill="#4C956C" opacity="0">
+    <animateMotion path="M900,170 C700,120 300,180 20,150" dur="18s" repeatCount="indefinite" rotate="auto"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" keyTimes="0;0.1;0.85;1" dur="18s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- colina de trás -->
+  <path d="M0,220 L0,140 C150,100 300,160 450,130 C600,100 750,150 900,120 L900,220 Z" fill="url(#hillBack)"/>
+
+  <!-- colina da frente -->
+  <path d="M0,220 L0,175 C180,140 320,200 500,170 C650,145 780,190 900,160 L900,220 Z" fill="url(#hillFront)"/>
+
+  <!-- grama balançando -->
+  <g stroke="#2C6E49" stroke-width="4" stroke-linecap="round">
+    <line x1="120" y1="200" x2="120" y2="175">
+      <animateTransform attributeName="transform" type="rotate" values="-4 120 200; 4 120 200; -4 120 200" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="145" y1="205" x2="148" y2="178">
+      <animateTransform attributeName="transform" type="rotate" values="4 145 205; -4 145 205; 4 145 205" dur="2.6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="700" y1="198" x2="700" y2="172">
+      <animateTransform attributeName="transform" type="rotate" values="-3 700 198; 5 700 198; -3 700 198" dur="3.4s" repeatCount="indefinite"/>
+    </line>
+    <line x1="730" y1="203" x2="733" y2="176">
+      <animateTransform attributeName="transform" type="rotate" values="5 730 203; -3 730 203; 5 730 203" dur="2.9s" repeatCount="indefinite"/>
+    </line>
+  </g>
+</svg>
