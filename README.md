@@ -70,8 +70,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C14E,50:4C956C,100:2C6E49&height=120&section=footer" alt="footer" width="100%"/>
+  <img src="./assets/solarpunk-divider.svg" alt="sol nascendo sobre as colinas" width="100%"/>
 </p>
+
+<br/>
 
 <p align="center">
   <sub>✦ Atualizado em 2026 &nbsp;·&nbsp; feito com 🌱 e café</sub>
