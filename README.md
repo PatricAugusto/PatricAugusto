@@ -1,14 +1,16 @@
 <!-- ============================================ -->
 <!--   PATRIC AUGUSTO · GITHUB PROFILE README     -->
 <!--   Tema: Solarpunk Minimalista               -->
+<!--   Posição: IA aplicada na fronteira,         -->
+<!--            expandindo para engenharia de sistemas -->
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C6E49,50:4C956C,100:F2C14E&height=200&section=header&text=Patric%20Augusto&fontSize=42&fontColor=FEFAE0&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20JS%2FTS%20Enthusiast&descAlignY=58&descSize=17&descColor=FEFAE0" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C6E49,50:4C956C,100:F2C14E&height=200&section=header&text=Patric%20Augusto&fontSize=42&fontColor=FEFAE0&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Applied%20AI&descAlignY=58&descSize=17&descColor=FEFAE0" alt="banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=4C956C&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;TypeScript+%7C+Node.js+%7C+React;Building+products+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=4C956C&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Applied+AI+%C2%B7+Frontier;Expanding+beyond+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,15 +30,34 @@
 <h3 align="center">🌿 Sobre mim</h3>
 
 <p align="center">
-  Desenvolvedor Full Stack apaixonado por criar produtos que entregam valor real.<br/>
-  Foco em código limpo, performance e experiências de usuário fluidas.<br/>
-  Sempre explorando novas tecnologias no ecossistema JavaScript.
+  Desenvolvedor Full Stack que constrói produtos que entregam valor real.<br/>
+  Foco em código limpo, performance e experiências de usuário fluidas —<br/>
+  operando na fronteira da <strong>IA aplicada</strong> e expandindo-me para além dela.
 </p>
 
 <p align="center">
-  🔭 Trabalhando em projetos com <strong>Next.js + TypeScript, Node.js + APIs REST/GraphQL</strong><br/>
-  🌱 Estudando atualmente <strong>arquitetura de microsserviços e IA</strong><br/>
-  📍 Brasil 🇧🇷
+  🔭 <strong>IA aplicada em produção</strong> &nbsp;·&nbsp; 🚧 <strong>Arquitetura de microsserviços e sistemas</strong> &nbsp;·&nbsp; 📍 Brasil 🇧🇷
+</p>
+
+<br/>
+
+<h3 align="center">🧭 Fronteira da IA aplicada</h3>
+
+<p align="center">Conceito que mantém o README e o perfil orientados pela mesma direção:</p>
+
+<p align="center">
+  <strong>IA aplicada</strong> — produto máximo da engenharia moderna.<br/>
+  <strong>Expansão</strong> — toda IA que funciona em produção precisa de um sistema sólido por trás.
+</p>
+
+<br/>
+
+<h3 align="center">🔭 O que estou trabalhando agora</h3>
+
+<p align="center">
+  🛠 <strong>IA aplicada</strong> — integrando LLMs, pipelines e agentes a fluxos reais de produto, com foco em UX, avaliação e confiabilidade.<br/>
+  🏗 <strong>Expansão para além da IA</strong> — arquitetura de microsserviços, infraestrutura e sistemas que sustentam o que a IA entrega em produção.<br/>
+  📚 <strong>Em andamento</strong> — estudando IA/ML e arquitetura de software para caminhar com o que está começando.
 </p>
 
 <br/>
@@ -65,7 +86,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 </p>
-
 
 <br/>
 
