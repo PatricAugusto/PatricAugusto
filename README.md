@@ -117,16 +117,7 @@
 
 <br/>
 
-<h3 align="center">🛰 Navegação</h3>
-
-<p align="center">
-  <a href="#sobre-mim">Sobre mim</a> &nbsp;·&nbsp;
-  <a href="#constelações">Constelações</a> &nbsp;·&nbsp;
-  <a href="#o-que-estou-trabalhando-agora">Trabalho atual</a> &nbsp;·&nbsp;
-  <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
-  <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
-  <a href="#contato">Contato</a>
-</p>
+<h3 align="center">🛰 Navegando</h3>
 
 <br/>
 
