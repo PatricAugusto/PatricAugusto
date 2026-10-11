@@ -2,9 +2,6 @@
 <!--   PATRIC AUGUSTO · GITHUB PROFILE README     -->
 <!--   Tema: Caminho Espacial                     -->
 <!--   Posição: Full-Stack Engineer merging modern web with AI -->
-<!--   Nota: constelação em SVG inline estático.   -->
-<!--   GitHub não executa animação SMIL e não      -->
-<!--   renderiza <details>/<summary> no README.    -->
 <!-- ============================================ -->
 
 <p align="center">
@@ -12,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=7DD3FC&center=true&vCenter=true&width=440&lines=Full+Stack+Engineer;Web+%26+AI;Constela%C3%A7%C3%B5es+de+capacidade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=7DD3FC&center=true&vCenter=true&width=440&lines=Full+Stack+Engineer+applying+AI&lines=Web+%26+AI+Systems;Constela%C3%A7%C3%B5es+de+capacidade" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -32,14 +29,14 @@
 <h3 align="center">🌌 Sobre mim</h3>
 
 <p align="center">
-  Desenvolvedor Full Stack que constrói produtos que entregam valor real.<br/>
-  Vive em uma <strong>cadeia de sistemas inteligentes</strong>: cada modelo, serviço e
-  interface é uma estrela que precisa estar alinhada com o que o usuário sente.<br/>
-  Não paro no que a IA faz sozinha — quero construir o céu por trás do que a IA entrega.
+  Desenvolvedor Full Stack que constrói produtos que entregam valor real. Vive em uma
+  <strong>cadeia de sistemas inteligentes</strong>: cada modelo, serviço e interface é uma
+  estrela que precisa estar alinhada com o que o usuário sente. Não paro no que a IA faz
+  sozinha — quero construir o céu por trás do que a IA entrega.
 </p>
 
 <p align="center">
-  🔭 <strong>Ponte entre IA aplicada e sistemas</strong> &nbsp;·&nbsp; 🚧 <strong>Arquitetura de microsserviços e produtividade</strong> &nbsp;·&nbsp; 📍 Brasil 🇧🇷
+  🔭 <strong>IA aplicada em produção</strong> &nbsp;·&nbsp; 🚧 <strong>Arquitetura de microsserviços e sistemas</strong> &nbsp;·&nbsp; 📍 Brasil 🇧🇷
 </p>
 
 <br/>
@@ -52,7 +49,7 @@
 </p>
 
 <p align="center">
-  <svg viewBox="0 0 820 460" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;max-width:820px;background:#081023;border-radius:16px;padding:20px;display:block;">
+  <svg viewBox="0 0 800 440" xmlns="http://www.w3.org/2000/svg" width="100%" style="max-width:800px;background:#081023;border-radius:16px;padding:20px;display:block;">
     <defs>
       <radialGradient id="space" cx="50%" cy="50%" r="100%">
         <stop offset="0%" stop-color="#0c1a33"/>
@@ -64,68 +61,68 @@
         <stop offset="1" stop-color="#14284a" stop-opacity="0"/>
       </linearGradient>
     </defs>
-    <rect width="820" height="460" fill="url(#space)"/>
-    <rect width="820" height="460" fill="url(#gridG)"/>
+    <rect width="800" height="440" fill="url(#space)"/>
+    <rect width="800" height="440" fill="url(#gridG)"/>
 
-    <ellipse cx="300" cy="230" rx="140" ry="30" fill="#7DD3FC" opacity="0.08"/>
-    <ellipse cx="520" cy="270" rx="120" ry="26" fill="#7DD3FC" opacity="0.08"/>
-
-    <g>
-      <polyline points="350,150 560,220" stroke="#7DD3FC" stroke-opacity="0.45" stroke-width="2" stroke-dasharray="10 8" fill="none"/>
-      <polyline points="350,150 260,210" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
-      <polyline points="350,150 380,180" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
-      <polyline points="470,130 560,220" stroke="#7DD3FC" stroke-opacity="0.4" stroke-width="1.8" stroke-dasharray="10 8" fill="none"/>
-      <polyline points="470,130 420,270" stroke="#7DD3FC" stroke-opacity="0.3" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
-      <polyline points="560,220 620,140" stroke="#7DD3FC" stroke-opacity="0.45" stroke-width="2" stroke-dasharray="10 8" fill="none"/>
-      <polyline points="560,220 520,310" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
-      <polyline points="560,220 640,260" stroke="#7DD3FC" stroke-opacity="0.33" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
-      <polyline points="420,270 330,310" stroke="#7DD3FC" stroke-opacity="0.34" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
-      <polyline points="420,270 520,310" stroke="#7DD3FC" stroke-opacity="0.36" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
-      <polyline points="420,270 380,180" stroke="#7DD3FC" stroke-opacity="0.3" stroke-width="1.4" stroke-dasharray="8 8" fill="none"/>
-      <polyline points="620,140 590,360" stroke="#7DD3FC" stroke-opacity="0.34" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
-      <polyline points="520,310 640,260" stroke="#7DD3FC" stroke-opacity="0.34" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
-      <polyline points="520,310 620,140" stroke="#7DD3FC" stroke-opacity="0.28" stroke-width="1.4" stroke-dasharray="8 8" fill="none"/>
-      <polyline points="260,210 290,380" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
-    </g>
+    <ellipse cx="280" cy="210" rx="130" ry="28" fill="#7DD3FC" opacity="0.08"/>
+    <ellipse cx="500" cy="250" rx="110" ry="24" fill="#7DD3FC" opacity="0.08"/>
 
     <g>
-      <circle cx="350" cy="150" r="3.4" fill="#7DD3FC"/>
+      <polyline points="330,130 530,200" stroke="#7DD3FC" stroke-opacity="0.45" stroke-width="2" stroke-dasharray="10 8" fill="none"/>
+      <polyline points="330,130 240,190" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
+      <polyline points="330,130 360,160" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
+      <polyline points="450,110 530,200" stroke="#7DD3FC" stroke-opacity="0.4" stroke-width="1.8" stroke-dasharray="10 8" fill="none"/>
+      <polyline points="450,110 400,250" stroke="#7DD3FC" stroke-opacity="0.3" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
+      <polyline points="530,200 590,120" stroke="#7DD3FC" stroke-opacity="0.45" stroke-width="2" stroke-dasharray="10 8" fill="none"/>
+      <polyline points="530,200 490,290" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
+      <polyline points="530,200 620,240" stroke="#7DD3FC" stroke-opacity="0.33" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
+      <polyline points="400,250 310,290" stroke="#7DD3FC" stroke-opacity="0.34" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
+      <polyline points="400,250 490,290" stroke="#7DD3FC" stroke-opacity="0.36" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
+      <polyline points="400,250 360,160" stroke="#7DD3FC" stroke-opacity="0.3" stroke-width="1.4" stroke-dasharray="8 8" fill="none"/>
+      <polyline points="590,120 560,340" stroke="#7DD3FC" stroke-opacity="0.34" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
+      <polyline points="490,290 620,240" stroke="#7DD3FC" stroke-opacity="0.34" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
+      <polyline points="490,290 590,120" stroke="#7DD3FC" stroke-opacity="0.28" stroke-width="1.4" stroke-dasharray="8 8" fill="none"/>
+      <polyline points="240,190 270,360" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="1.6" stroke-dasharray="9 8" fill="none"/>
+    </g>
+
+    <g>
+      <circle cx="330" cy="130" r="3.2" fill="#7DD3FC"/>
     </g>
     <g>
-      <circle cx="470" cy="130" r="2.8" fill="#FEFAE0"/>
+      <circle cx="450" cy="110" r="2.6" fill="#FEFAE0"/>
     </g>
     <g>
-      <circle cx="560" cy="220" r="3.6" fill="#7DD3FC"/>
+      <circle cx="530" cy="200" r="3.4" fill="#7DD3FC"/>
     </g>
     <g>
-      <circle cx="620" cy="140" r="2.4" fill="#FEFAE0"/>
+      <circle cx="590" cy="120" r="2.2" fill="#FEFAE0"/>
     </g>
     <g>
-      <circle cx="420" cy="270" r="3" fill="#7DD3FC"/>
+      <circle cx="400" cy="250" r="2.8" fill="#7DD3FC"/>
     </g>
     <g>
-      <circle cx="520" cy="310" r="2.6" fill="#7DD3FC"/>
+      <circle cx="490" cy="290" r="2.4" fill="#7DD3FC"/>
     </g>
     <g>
-      <circle cx="640" cy="260" r="2.9" fill="#FEFAE0"/>
+      <circle cx="620" cy="240" r="2.7" fill="#FEFAE0"/>
     </g>
     <g>
-      <circle cx="330" cy="310" r="2.4" fill="#FEFAE0"/>
+      <circle cx="310" cy="290" r="2.2" fill="#FEFAE0"/>
     </g>
     <g>
-      <circle cx="260" cy="210" r="3.2" fill="#7DD3FC"/>
+      <circle cx="240" cy="190" r="3" fill="#7DD3FC"/>
     </g>
     <g>
-      <circle cx="290" cy="380" r="2.4" fill="#FEFAE0"/>
+      <circle cx="270" cy="360" r="2.2" fill="#FEFAE0"/>
     </g>
     <g>
-      <circle cx="380" cy="180" r="2.2" fill="#7DD3FC"/>
+      <circle cx="360" cy="160" r="2" fill="#7DD3FC"/>
     </g>
     <g>
-      <circle cx="590" cy="360" r="2.4" fill="#FEFAE0"/>
+      <circle cx="560" cy="340" r="2.2" fill="#FEFAE0"/>
     </g>
     <g>
-      <circle cx="670" cy="340" r="2.8" fill="#7DD3FC"/>
+      <circle cx="650" cy="320" r="2.6" fill="#7DD3FC"/>
     </g>
   </svg>
 </p>
