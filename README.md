@@ -1,7 +1,7 @@
 <!-- ============================================ -->
 <!--   PATRIC AUGUSTO · GITHUB PROFILE README     -->
 <!--   Tema: Caminho Espacial                     -->
-<!--   Posição: Full-Stack Engineer merging modern web with AI -->
+<!--   Posição: Full-Stack Engineer                -->
 <!-- ============================================ -->
 
 <p align="center">
@@ -178,6 +178,53 @@
 
 <br/>
 
+<h3 align="center">📁 Projetos</h3>
+
 <p align="center">
-  <sub>✦ Atualizado em 2026 &nbsp;·&nbsp; feito com 🌱 e café</sub>
+  <a href="https://github.com/seu-usuario/projeto-ia"><sub>⟶ Projeto IA &nbsp;·&nbsp; RAG, agentes e pipelines de produtividade (em andamento)</sub></a><br/>
+  <a href="https://github.com/seu-usuario/projeto-api"><sub>⟶ API escalável &nbsp;·&nbsp; Node.js, Fastify, PostgreSQL e Redis</sub></a><br/>
+  <a href="https://github.com/seu-usuario/projeto-frontend"><sub>⟶ Interface web &nbsp;·&nbsp; Next.js + TypeScript + Tailwind CSS</sub></a>
+</p>
+
+<br/>
+
+<h3 align="center">🛰 Navegação</h3>
+
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> &nbsp;·&nbsp;
+  <a href="#constelações">Constelações</a> &nbsp;·&nbsp;
+  <a href="#o-que-estou-trabalhando-agora">Trabalho atual</a> &nbsp;·&nbsp;
+  <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+  <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
+  <a href="#contato">Contato</a>
+</p>
+
+<br/>
+
+<p align="center">
+  <svg viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:320px;background:#081023;border-radius:14px;padding:18px;display:block;">
+    <defs>
+      <radialGradient id="foot" cx="50%" cy="50%" r="100%">
+        <stop offset="0%" stop-color="#0c1a33"/>
+        <stop offset="60%" stop-color="#081023"/>
+        <stop offset="100%" stop-color="#040a18"/>
+      </radialGradient>
+      <linearGradient id="gridFG" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#14284a" stop-opacity="0.4"/>
+        <stop offset="1" stop-color="#14284a" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="320" height="120" fill="url(#foot)"/>
+    <rect width="320" height="120" fill="url(#gridFG)"/>
+    <circle cx="80" cy="55" r="12" fill="#7DD3FC" opacity="0.6"/>
+    <circle cx="240" cy="55" r="12" fill="#FEFAE0" opacity="0.4"/>
+    <circle cx="160" cy="28" r="7" fill="#7DD3FC" opacity="0.5"/>
+    <circle cx="160" cy="82" r="7" fill="#7DD3FC" opacity="0.5"/>
+    <line x1="74" y1="52" x2="74" y2="58" stroke="#7DD3FC" stroke-opacity="0.5" stroke-width="1"/>
+    <line x1="86" y1="52" x2="86" y2="58" stroke="#7DD3FC" stroke-opacity="0.5" stroke-width="1"/>
+  </svg>
+</p>
+
+<p align="center" style="font-size:13px;color:#cdd9ef;">
+  ✦ Atualizado em 2026 &nbsp;·&nbsp; feito com 🌱 e café
 </p>
